@@ -74,6 +74,7 @@ The six Selenium test cases completed successfully in the recorded test run, wit
 ## Author
 
 Lubana Islam Khan
+Prasheel Pawan Singh
 ## Project Limitations
 
 - Student records are stored in PHP session data and are temporary.
