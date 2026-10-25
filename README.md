@@ -74,3 +74,8 @@ The six Selenium test cases completed successfully in the recorded test run, wit
 ## Author
 
 Lubana Islam Khan
+## Project Limitations
+
+- Student records are stored in PHP session data and are temporary.
+- The application does not use a database.
+- Automated browser testing requires Apache, Python, Selenium, and Google Chrome.
